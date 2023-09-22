@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "login": "log_0",
+      "password": "p_0",
+      "name": "test_0",
+      "details": "test_0_details",
+      "avatar": "#",
+      "friends": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "1",
+      "login": "log_1",
+      "password": "p_1",
+      "name": "test_1",
+      "details": "test_1_details",
+      "avatar": "#",
+      "friends": [
+        0
+      ]
+    },
+    {
+      "id": "2",
+      "login": "log_2",
+      "password": "p_2",
+      "name": "test_2",
+      "details": "test_2_details",
+      "avatar": "#",
+      "friends": [
+        2,
+        1
+      ]
+    },
+    {
+      "name": "test",
+      "id": "KTa-xMu"
+    },
+    {
+      "name": "test_4",
+      "id": "MCVFEiT"
+    }
+  ]
+}
