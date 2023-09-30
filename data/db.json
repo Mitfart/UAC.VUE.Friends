@@ -6,7 +6,7 @@
       "password": "p_0",
       "name": "test_0",
       "details": "test_0_details",
-      "avatar": "#",
+      "avatar": "0.jpg",
       "friends": [
         0,
         2
@@ -18,7 +18,7 @@
       "password": "p_1",
       "name": "test_1",
       "details": "test_1_details",
-      "avatar": "#",
+      "avatar": "1.jpg",
       "friends": [
         0
       ]
@@ -29,19 +29,11 @@
       "password": "p_2",
       "name": "test_2",
       "details": "test_2_details",
-      "avatar": "#",
+      "avatar": "2.jpg",
       "friends": [
         2,
         1
       ]
-    },
-    {
-      "name": "test",
-      "id": "KTa-xMu"
-    },
-    {
-      "name": "test_4",
-      "id": "MCVFEiT"
     }
   ]
 }
